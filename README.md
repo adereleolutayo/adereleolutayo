@@ -1,4 +1,5 @@
 ### Aderele Olutayo's personal profile
+* Portfolio Website: [Paucha Technologies](https://paucha.com.ng/)
 
 I'm an experienced software developer.
 
@@ -9,6 +10,10 @@ I'm an experienced software developer.
 * 4: [Pearl Rich International](http://pearlrichinternational.org/)
 * 5: [Down Payment Realtor](http://downpaymentrealtor.com/)
 * 6: [Darfel Limited](https://darfellimited.com/)
+* 7: [De Mercy Nightclub](http://demercyclub.com/)
+* 8: [Alveena Events](https://alveenaevents.com/)
+* 9: [Afrilandlord](https://afrilandlord.com/)
+* 10: [Property Now Now](http://propertynownow.com/)
 * E-mail me at adereleolutayo@gmail.com
 ## My stack:
 * Php
