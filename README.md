@@ -7,7 +7,8 @@ I'm an experienced software developer.
 * 2: [PMAT Marketplace](http://pmatmarketplace.com/)
 * 3: [Levasto Properties](https://levastoproperties.com/)
 * 4: [Pearl Rich International](http://pearlrichinternational.org/)
-* 5: [Down Payment Realtor] (http://downpaymentrealtor.com/)
+* 5: [Down Payment Realtor](http://downpaymentrealtor.com/)
+* 6: [Darfel Limited](https://darfellimited.com/)
 * E-mail me at adereleolutayo@gmail.com
 ## My stack:
 * Php
