@@ -3,7 +3,7 @@
 
 I'm an experienced software developer.
 
-## My portfolios:
+## Some of my portfolios:
 * 1: [Empowerment Food Network](https://empowermentfoodnetwork.com/)
 * 2: [PMAT Marketplace](http://pmatmarketplace.com/)
 * 3: [Levasto Properties](https://levastoproperties.com/)
