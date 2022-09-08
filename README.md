@@ -1,16 +1,23 @@
-### Hi there 👋
+### Aderele Olutayo's personal profile
 
+I'm an experienced software developer.
+
+## My portfolios:
+* 1: [Empowerment Food Network](https://empowermentfoodnetwork.com/)
+* 2: [PMAT Marketplace](http://pmatmarketplace.com/)
+* 3: [Levasto Properties](https://levastoproperties.com/)
+* E-mail me at adereleolutayo@gmail.com
+## My stack:
+* Php
+* Vb.net
+* WordPress
+* JavaScript
+* jQuery
+* Html5
+* Css3
+* JavaScript
+* React 
+* React Native
+* NodeJS
+etc...
 <!--
-**adereleolutayo/adereleolutayo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
