@@ -31,7 +31,7 @@ I'm an experienced software developer.
 * 25: [Greenleaf Attorneys](https://greenleafattorneys.com/)
 * 26: [g-CAD Projects Limited](https://gcadpltd.com/)
 * 27: [Future Home Properties](https://futurehomeproperties.com/)
-* 13: [Bhoff Edu Travels](http://bhoffedutravels.com/)
+* 28: [Safad Metals](https://safadmetals.com/)
 * 14: [JTL Solar](https://jtlsolar.com/)
 * 15: [UFAAB](http://ufaab.com/)
 * E-mail me at adereleolutayo@gmail.com
