@@ -32,8 +32,8 @@ I'm an experienced software developer.
 * 26: [g-CAD Projects Limited](https://gcadpltd.com/)
 * 27: [Future Home Properties](https://futurehomeproperties.com/)
 * 28: [Safad Metals](https://safadmetals.com/)
-* 14: [JTL Solar](https://jtlsolar.com/)
-* 15: [UFAAB](http://ufaab.com/)
+* 29: [Parchment and Cross Solicitors](https://parchmentandcross.com/)
+* 30: [Royal Pac Properties](https://royalpacproperties.com/)
 * E-mail me at adereleolutayo@gmail.com
 ## My stack:
 * Php
