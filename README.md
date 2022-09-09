@@ -30,7 +30,7 @@ I'm an experienced software developer.
 * 24: [HB Aims Constructions and Properties](https://hbaimsconstructionsandproperties.com/)
 * 25: [Greenleaf Attorneys](https://greenleafattorneys.com/)
 * 26: [g-CAD Projects Limited](https://gcadpltd.com/)
-* 12: [Law Empire Nigeria](https://lawempirenigeria.com/)
+* 27: [Future Home Properties](https://futurehomeproperties.com/)
 * 13: [Bhoff Edu Travels](http://bhoffedutravels.com/)
 * 14: [JTL Solar](https://jtlsolar.com/)
 * 15: [UFAAB](http://ufaab.com/)
