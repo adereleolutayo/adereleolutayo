@@ -19,6 +19,21 @@ I'm an experienced software developer.
 * 13: [Bhoff Edu Travels](http://bhoffedutravels.com/)
 * 14: [JTL Solar](https://jtlsolar.com/)
 * 15: [UFAAB](http://ufaab.com/)
+* 16: [Iloshe Properties](https://ilosheproperties.com/)
+* 17: [Procapstones](https://procapstones.com/)
+* 18: [Nurtures Integrated Giants](https://nurturesintegratedgiants.com/)
+* 19: [Lionstakers](https://lionstakers.com/)
+* 20: [Eagle Serve Limited](http://eagleserveltd.com/)
+* 21: [Future Home Properties](https://futurehomeproperties.com/)
+* 22: [Morhauz Properties](https://morhauzproperties.com/)
+* 23: [Anjorin Construction Company](https://acclimited.com.ng/)
+* 9: [Afrilandlord](https://afrilandlord.com/)
+* 10: [Property Now Now](http://propertynownow.com/)
+* 11: [New Politics](http://newpoliticsng.com/)
+* 12: [Law Empire Nigeria](https://lawempirenigeria.com/)
+* 13: [Bhoff Edu Travels](http://bhoffedutravels.com/)
+* 14: [JTL Solar](https://jtlsolar.com/)
+* 15: [UFAAB](http://ufaab.com/)
 * E-mail me at adereleolutayo@gmail.com
 ## My stack:
 * Php
